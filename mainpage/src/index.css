@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.bg-image {
+    background-size: cover;
+    background: url(clouds.jpg) no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.title-text{
+    font-size: 60px;
+    padding-bottom: 5px;
+    text-shadow: 2px 2px black;
+}
+
+.call-text {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+.center-all {
+    margin-top: 17.5%;
+}
+
+
+
+.name-box {
+    margin: auto;
+    width: 80%;
+    height: 100%;
+    border: dashed white;
+    padding: 25px;
+}
+
+.main-text {
+    color: whitesmoke;
+    text-align: center;
+}
