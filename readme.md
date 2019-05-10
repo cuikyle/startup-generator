@@ -1,4 +1,3 @@
-﻿# Kyle Cui
 ## Setup
 
 **API Server (Node.js)**
@@ -26,4 +25,4 @@ To start things off, I decided to set up my own API that returns word pairings l
 Then, I set up a React app to try to manipulate + display the data in a more appealing way. I created a React Component with "this" and "that" as properties. When the page is displayed, it first makes a call to our local server in order to update & display "this" and "that". Then, new pairings are updated & displayed each time the button is pressed. 
 
 
-
+![Sample Screenshot](exampleScreenshot.JPG?raw=true)
